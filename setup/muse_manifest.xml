@@ -1,0 +1,174 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sendutest.cl" resolutions="1x" timestamp="1534860309390">
+  <folder name="assets">
+    <file name="jotform_329b8647-4317-46f4-b448-8245601eae2d2.mulib" crc="442034705" seo="true" mt="1534776945000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="104100884" ref="index"/>
+    <file name="nomq_index.css" crc="4246186592" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="03.css" crc="404000870" ref="03"/>
+    <file name="nomq_03.css" crc="381358325" ref="03"/>
+    <file name="iefonts_03.css" crc="3824530138" ref="03"/>
+    <file name="04.css" crc="4198328329" ref="04"/>
+    <file name="nomq_04.css" crc="330020921" ref="04"/>
+    <file name="iefonts_04.css" crc="3824530138" ref="04"/>
+    <file name="exito.css" crc="372970765" ref="exito"/>
+    <file name="nomq_exito.css" crc="4206361092" ref="exito"/>
+    <file name="iefonts_exito.css" crc="3824530138" ref="exito"/>
+    <file name="05.css" crc="225072577" ref="05"/>
+    <file name="nomq_05.css" crc="62809502" ref="05"/>
+    <file name="iefonts_05.css" crc="3824530138" ref="05"/>
+    <file name="02.css" crc="127497434" ref="02"/>
+    <file name="nomq_02.css" crc="3921241050" ref="02"/>
+    <file name="iefonts_02.css" crc="3824530138" ref="02"/>
+    <file name="01.css" crc="3947155663" ref="01"/>
+    <file name="nomq_01.css" crc="4161058968" ref="01"/>
+    <file name="iefonts_01.css" crc="3824530138" ref="01"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:03:exito:04:05:01:02"/>
+    <file name="museutils.js" crc="3803043152" ref="index:03:exito:04:05:01:02"/>
+    <file name="whatinput.js" crc="86476730" ref="index:03:exito:04:05:01:02"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:03:exito:04:05:01:02"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:03:exito:04:05:01:02"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:03:exito:04:05:01:02"/>
+    <file name="require.js" crc="4157109226" ref="index:03:exito:04:05:01:02"/>
+    <file name="webpro.js" crc="242022427" ref="03:04:05:01:02"/>
+    <file name="form_check.php" crc="147359589" ref="01:02"/>
+    <file name="form_throttle.php" crc="93986428" ref="01:02"/>
+    <file name="form_process.php" crc="3851993751" ref="01:02"/>
+    <file name="form-u903.php" crc="4159144373" ref="01"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="03:04:02"/>
+    <file name="form-u1938.php" crc="4169415301" ref="02"/>
+    <file name="form-u2627.php" crc="269965989" ref="04"/>
+    <file name="form-u5791.php" crc="395497363" ref="04"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="04:05"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="04:05"/>
+    <file name="touchswipe.js" crc="4066113679" ref="04:05"/>
+    <file name="form-u3698.php" crc="3879704576" ref="05"/>
+    <file name="form-u4746.php" crc="3812343426" ref="03"/>
+  </folder>
+  <folder name="images">
+    <file name="noun_open-box_749717.svg" crc="397074538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_open box_749717_poster_.png" crc="4164855975" ref="index"/>
+    <file name="logo-azul.svg" crc="391306405" seo="true" ref="index:03:exito:04:05:01:02">
+      <caption webpage="exito" alt=""/>
+      <caption webpage="exito" alt=""/>
+      <caption webpage="05" alt=""/>
+      <caption webpage="05" alt=""/>
+      <caption webpage="04" alt=""/>
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+      <caption webpage="03" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="01" alt=""/>
+      <caption webpage="01" alt=""/>
+      <caption webpage="02" alt=""/>
+      <caption webpage="02" alt=""/>
+      <caption webpage="uno" alt=""/>
+      <caption webpage="uno" alt=""/>
+      <caption webpage="dos" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="logo azul_poster_.png" crc="4213543209" ref="index:exito:01:02"/>
+    <file name="blank.gif" crc="4208392903" ref="index:03:exito:04:05:01:02"/>
+    <file name="u984-5.png" crc="4241495111" ref="01"/>
+    <file name="u984-52.png" crc="265070134" ref="01"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="04:03:02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="04:03:02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="04:03:02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="04:03:02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="04:03:02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="04:03:02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="logo-bluex.png" crc="222818641" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="169-chilexpress-small.jpg" crc="3973534886" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="dhl-logo.jpg" crc="3794710628" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="correos_11.jpg" crc="4265180436" seo="true" ref="02">
+      <caption webpage="02" alt=""/>
+      <caption webpage="02" alt=""/>
+      <caption webpage="dos" alt=""/>
+      <caption webpage="dos" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="04">
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="04">
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="04">
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="04">
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="04">
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="04">
+      <caption webpage="04" alt=""/>
+      <caption webpage="03" alt=""/>
+    </file>
+    <file name="noun_open-box.svg" crc="4186694610" seo="true" ref="exito">
+      <caption webpage="exito" alt=""/>
+      <caption webpage="exito" alt=""/>
+    </file>
+    <file name="noun_open box_poster_.png" crc="3920912203" ref="exito"/>
+    <file name="u3842-5-a.png" crc="4241495111" ref="05"/>
+    <file name="u3933-4.png" crc="335196975" ref="05"/>
+    <file name="u3873-4.png" crc="4028961526" ref="05"/>
+    <file name="u3842-5-a2.png" crc="265070134" ref="05"/>
+    <file name="u3933-42.png" crc="3922683208" ref="05"/>
+    <file name="u3873-42.png" crc="447817132" ref="05"/>
+    <file name="favicon.ico" crc="4040323558" ref="index:exito:01:02"/>
+  </folder>
+  <file name="index.html" crc="3858521708" seo="true" mt="1534859050064" redirect="true"/>
+  <file name="03.html" crc="4009778729" seo="true" mt="1534859050069" redirect="true"/>
+  <file name="exito.html" crc="3778754494" seo="true" mt="1534859332217" redirect="true"/>
+  <file name="04.html" crc="4277873950" seo="true" mt="1534859050066" redirect="true"/>
+  <file name="05.html" crc="3861371336" seo="true" mt="1534860183280" redirect="true"/>
+  <file name="01.html" crc="329991645" seo="true" mt="1534860208389" redirect="true"/>
+  <file name="02.html" crc="291619214" seo="true" mt="1534860297817" redirect="true"/>
+</manifest>
