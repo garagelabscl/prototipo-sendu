@@ -31,19 +31,40 @@ $form = array(
 		'to' => 'nicole@garagelabs.cl'
 	),
 	'fields' => array(
-		'custom_U4751' => array(
+		'custom_U6317' => array(
 			'order' => 1,
-			'type' => 'checkboxgroup',
-			'label' => '¿Qué quieres priorizar?',
-			'required' => false,
-			'optionItems' => array(
-				'Precio',
-				'Nivel de servicio',
-				'Satisfacción del cliente',
-				'Menor tiempo de despacho'
-			),
+			'type' => 'string',
+			'label' => 'Precio',
+			'required' => true,
 			'errors' => array(
-				'format' => 'El campo \'¿Qué quieres priorizar?\' contiene un valor no válido.'
+				'required' => 'El campo \'Precio\' es obligatorio.'
+			)
+		),
+		'custom_U6338' => array(
+			'order' => 2,
+			'type' => 'string',
+			'label' => 'Menor tiempo de despacho',
+			'required' => true,
+			'errors' => array(
+				'required' => 'El campo \'Menor tiempo de despacho\' es obligatorio.'
+			)
+		),
+		'custom_U6358' => array(
+			'order' => 3,
+			'type' => 'string',
+			'label' => 'Nivel de servicio',
+			'required' => true,
+			'errors' => array(
+				'required' => 'El campo \'Nivel de servicio\' es obligatorio.'
+			)
+		),
+		'custom_U6378' => array(
+			'order' => 4,
+			'type' => 'string',
+			'label' => 'Satisfacción del cliente',
+			'required' => true,
+			'errors' => array(
+				'required' => 'El campo \'Satisfacción del cliente\' es obligatorio.'
 			)
 		)
 	)
